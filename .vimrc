@@ -51,7 +51,7 @@ set shiftwidth=4    " 换行时行间交错使用4个空格
 set autoindent      " 自动对齐
 set ai!             " 设置自动缩进
 
-st_Show_One_File=1
+let Tlist_Show_One_File=1
 let Tlist_Use_Right_Window=1
 let Tlist_Exit_OnlyWindow=1
 
